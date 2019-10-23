@@ -1,1 +1,1 @@
-Coding and pracitising swith statements, starting with weekdays. Calculates what day, today is by console input a number between 0-7 and afterwards, ask you an amount ahead, so you can see what weekday it is (fx. 150 days ahead)
+Coding and pracitising swith statements, starting with weekdays. Calculates what day today is, by allowing user to do a scanner input of a number between 0-7 and afterwards, ask you an amount ahead, so you can see what weekday it is (fx. 150 days ahead).
